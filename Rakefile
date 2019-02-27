@@ -30,5 +30,3 @@ desc 'seed the database with some dummy data'
     Pry.start
   end
 end
-
-
